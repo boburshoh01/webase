@@ -1,0 +1,73 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-image: url(../css/2.jpg);
+	background-size: 100% 750px;
+	background-repeat: no-repeat;
+}
+
+
+h2{
+	text-align: center;
+	padding: 20px;
+}
+
+.register{
+	background: #873600;
+    width: 420px;
+    margin: 20px 0px 0px 540px;
+    color: white;
+    font-size: 18px;
+    padding:20px;
+    border-radius: 10px;
+}
+
+#register{
+	margin-left: 50px;
+}
+
+label{
+	color: white;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-style: italic;
+}
+
+#name{
+	width: 300px;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+	padding: 7px;
+}
+
+#ph{
+	width: 95px;
+	padding: 7px;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+}
+
+#num{
+	width: 200px;
+	padding: 7px;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+}
+
+#sub{
+	width: 200px;
+	padding: 7px;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: 600;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+}
